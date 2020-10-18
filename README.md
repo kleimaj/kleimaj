@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![kleimaj's github stats](https://github-readme-stats.vercel.app/api?username=kleimaj&show_icons=true&bg_color=91ccec&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![kleimaj's github stats](https://github-readme-stats.vercel.app/api?username=kleimaj&show_icons=true&bg_color=91ccec&title_color=000000&icon_color=37cf83)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kleimaj/kleimaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
