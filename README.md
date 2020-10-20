@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a programmer with the most amount of <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+# Hi there 👋 I'm a programmer with the most amount of <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 
 
 [![kleimaj's github stats](https://github-readme-stats.vercel.app/api?username=kleimaj&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
