@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/@kleimaj%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
+## Interested in learning more about me?
+```bash
+npx jacobkleiman
+```
 <!--
 **kleimaj/kleimaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
