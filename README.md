@@ -21,7 +21,7 @@
 </a>
 
 ## Interested in learning more about me?
-```bash
+```javascript
 npx jacobkleiman
 ```
 <!--
