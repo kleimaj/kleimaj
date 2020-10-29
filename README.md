@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about front-end engineering
 - 📫 How to reach me: jacobakleiman@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play bass!
+- ⚡ Fun fact: I play bass
 -->
