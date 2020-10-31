@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with advanced database concepts...
 - 💬 Ask me about front-end engineering
 - 📫 How to reach me: jacobakleiman@gmail.com
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I play bass
 -->
