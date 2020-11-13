@@ -2,7 +2,7 @@
 
 [![kleimaj's github stats](https://github-readme-stats.vercel.app/api?username=kleimaj&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Favoite Programming Languages
+## My Favorite Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
