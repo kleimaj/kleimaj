@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/TikTok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleimaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleimaj&layout=compact&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me!
 
